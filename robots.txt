@@ -1,5 +1,0 @@
-
-User-agent:*
-Disallow:
-
-Sitemap: https://baidu.com/sitemap.xml
