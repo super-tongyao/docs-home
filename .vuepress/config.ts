@@ -10,9 +10,9 @@ import { sitemapPlugin } from "vuepress-plugin-sitemap2";
 import { searchConsolePlugin } from "vuepress-plugin-china-search-console";
 
 export default defineUserConfig({
-    title: 'docs-home-tongyao',
-    description: 'Tongyao的小主页',
-    base:'docs-home',
+    title: '数据综合中心',
+    description: '张童瑶的数据综合中心',
+    base:'/docs-home/',
     head: [
         ['script', {}, `
             !function(p){"use strict";!function(t){var s=window,e=document,i=p,c="".concat("https:"===e.location.protocol?"https://":"http://","sdk.51.la/js-sdk-pro.min.js"),n=e.createElement("script"),r=e.getElementsByTagName("script")[0];n.type="text/javascript",n.setAttribute("charset","UTF-8"),n.async=!0,n.src=c,n.id="LA_COLLECT",i.d=n;var o=function(){s.LA.ids.push(i)};s.LA?s.LA.ids&&o():(s.LA=p,s.LA.ids=[],o()),r.parentNode.insertBefore(n,r)}()}({id:"JjDPBvNXNcI9wXx4",ck:"JjDPBvNXNcI9wXx4",autoTrack:true,hashMode:true});
@@ -51,7 +51,7 @@ export default defineUserConfig({
         }),
         searchConsolePlugin({
             // 改成自己的百度统计 id：https://tongji.baidu.com/
-            baiduId: 'd6dba90b6d34581f364377a36215fd26'
+            // baiduId: 'd6dba90b6d34581f364377a36215fd26'
         })
     ]
 });
