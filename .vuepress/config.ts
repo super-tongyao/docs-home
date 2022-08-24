@@ -10,8 +10,8 @@ import { sitemapPlugin } from "vuepress-plugin-sitemap2";
 import { searchConsolePlugin } from "vuepress-plugin-china-search-console";
 
 export default defineUserConfig({
-    title: '数据综合中心',
-    description: '张童瑶的数据综合中心',
+    title: 'Tongyao',
+    description: '何日功成名遂了，还乡，醉笑陪公三万场',
     base:'/docs-home/',
     head: [
         ['script', {}, `
