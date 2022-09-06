@@ -11,9 +11,7 @@
 
 ## 我的网站
 
-利用工作之余熬夜肝出的网站：
-
-1. 字节小柜：[https://store.ityao.cn](https://store.ityao.cn)（虚拟小玩意市场。）
+1、字节小柜：[https://store.ityao.cn](https://store.ityao.cn)（虚拟小玩意市场。）
 
 还有很多，就不一一列举了。
 
