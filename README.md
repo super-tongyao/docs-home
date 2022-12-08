@@ -12,13 +12,13 @@
 现任某厂Java高级开发工程师，CSDN现已坐拥 1万+ 粉丝。
 
 
-## My Web
+## 我的网站
 
 1、字节小柜 - 虚拟小玩意市场：[https://store.ityao.cn](https://store.ityao.cn)
 
 
 
-## Code Home
+## 代码托管
 
 **国内码云：**
 
@@ -26,7 +26,7 @@
 
 昵称：Tongyao
 
-
+<br>
 
 **国外GitHub：**
 
@@ -35,7 +35,7 @@
 昵称：super-tongyao
 
 
-## My Blog
+## 我的博客
 
 **国内CSDN：**
 
@@ -47,7 +47,7 @@
 
 ![](https://img-blog.csdnimg.cn/cc2b4f5fad3041f292ce19dc606c96d4.png)
 
-## Contact
+## 联系方式
 
 我的工作微信号：zty0321r，仅通过以下几类好友请求：
 
@@ -57,7 +57,7 @@
 
 不按要求备注则不会通过。
 
-## Footer
+## 其他
 
 [京ICP备2021018717号-2](https://beian.miit.gov.cn/)
 
