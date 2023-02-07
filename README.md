@@ -28,7 +28,7 @@
 
 国内CSDN（主页：[https://blog.csdn.net/u014641168](https://blog.csdn.net/u014641168)）（昵称：张童瑶）
 
-![](https://img-blog.csdnimg.cn/05ef194974d642d4827a85ab4896484a.png)
+![](https://img-blog.csdnimg.cn/ccc9372fb90f45bab85502008bb00484.png)
 
 坐拥 2万+ 粉丝，日常技术笔记记录，分享代码底层原理。
 ## 联系方式
