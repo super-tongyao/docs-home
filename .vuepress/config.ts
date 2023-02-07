@@ -10,8 +10,8 @@ import { sitemapPlugin } from "vuepress-plugin-sitemap2";
 import { searchConsolePlugin } from "vuepress-plugin-china-search-console";
 
 export default defineUserConfig({
-    title: 'Tongyao',
-    description: '何日功成名遂了，还乡，醉笑陪公三万场',
+    title: '张童瑶 | TONGYAO',
+    description: '我是一个网站描述，但我不知道该说些什么。',
     // base:'/docs-home/',
     head: [
         ['script', {}, `
@@ -21,7 +21,7 @@ export default defineUserConfig({
         ['meta', { name: 'keywords', content: '张童瑶,字节小柜,tongyao'}],
         ['meta', {
             name: 'description', 
-			content: '编程学习资源,原创编程学习经验方法,程序员求职校招指南,原创编程项目'
+			content: '我是一个网站描述，但我不知道该说些什么。'
         }],
     ],
     theme: defaultTheme({
@@ -51,7 +51,7 @@ export default defineUserConfig({
         }),
         searchConsolePlugin({
             // 改成自己的百度统计 id：https://tongji.baidu.com/
-            // baiduId: 'd6dba90b6d34581f364377a36215fd26'
+            baiduId: '1f46e781fce3ce28ede61e6671623b35'
         })
     ]
 });
