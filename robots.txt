@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://ityao.cn/sitemap.xml
+Sitemap: https://ityao.cn/docs-home/sitemap.xml
