@@ -1,7 +1,5 @@
-# 初见
-🐻你好，我是Tongyao（张童瑶）。
-
-
+# 初见🥳
+你好，我是Tongyao（张童瑶）。
 
 ## 介绍
 
@@ -14,26 +12,36 @@
 
 ## 我的网站
 
-[字节小柜](/Md/字节小柜.md) - 虚拟小玩意市场：[https://store.ityao.cn](https://store.ityao.cn)
+> 1、[字节小柜](/Md/字节小柜.md)：[https://store.ityao.cn](https://store.ityao.cn)
+> 
+> 2、云相册：[https://wall.ityao.cn/](https://wall.ityao.cn/)
 
 
+## 开源项目
+> 1、Wall：[https://github.com/super-tongyao/wall](https://github.com/super-tongyao/wall)
 
-## 代码托管
+## 代码平台
 
-1、国内码云（主页：[https://gitee.com/Super_TongYao](https://gitee.com/Super_TongYao)）（昵称：Tongyao）
+1、码云：[https://gitee.com/Super_TongYao](https://gitee.com/Super_TongYao)
 
-2、国外GitHub（主页：[https://github.com/super-tongyao](https://github.com/super-tongyao)）（昵称：super-tongyao）
+2、GitHub：[https://github.com/super-tongyao](https://github.com/super-tongyao)
 
 ## 我的博客
 
-国内CSDN（主页：[https://blog.csdn.net/u014641168](https://blog.csdn.net/u014641168)）（昵称：张童瑶）
+CSDN：[https://blog.csdn.net/u014641168](https://blog.csdn.net/u014641168)
 
 ![](https://img-blog.csdnimg.cn/ccc9372fb90f45bab85502008bb00484.png)
 
 坐拥 2万+ 粉丝，日常技术笔记记录，分享代码底层原理。
+
 ## 联系方式
 
-✅微信号：Byte880
+- 微信：Byte880
+- 邮箱：super_tongyao@163.com
+
+## 更多了解
+
+⬅ 点击左侧导航
 
 ## 其他备注
 
