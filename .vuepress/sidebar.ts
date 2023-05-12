@@ -6,25 +6,23 @@ export default [
         link: '/',
     },
 	{
-        text: '相册画廊',
-        link: 'https://wall.ityao.cn/',
+        text: '开源项目',
+        collapsible: true,
+        children: ['/Md/开源项目/Wall.md'],
     },
 	{
-        text: '开源项目',
-        link: 'https://github.com/super-tongyao/wall',
+        text: '关于小柜',
+        link: 'https://store.ityao.cn/other/about'
     },
-    {
-        text: '字节小柜',
-        link: '/md/字节小柜.md',
-    },
+	
     {
         text: '我的事记',
         link: 'https://store.ityao.cn/events',
     },
 	{
-        text: '导航中心',
-        link: '/md/导航中心.md',
-    },
+        text: '云上相册',
+        link: 'https://wall.ityao.cn/',
+    }
 	
     /*{
         text: '其他内容',
